@@ -1,0 +1,11 @@
+email: elporfirio@gmail.com
+fullname: 'Porfirio Chávez'
+title: Administrador
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$l8jTPRsgop0TarKgIVxHvOBfuQ7Wg.HkrAZOfNAEVe.N4LW.wPyUW
